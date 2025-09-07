@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://deepaksinghh.github.io/instagram-india-mega-report/sitemap.xml
